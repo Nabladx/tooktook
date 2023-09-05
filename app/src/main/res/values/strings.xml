@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tooktook</string>
+    <string name="mode_label">Mode</string>
+    <string name="language_label">Language</string>
+</resources>
