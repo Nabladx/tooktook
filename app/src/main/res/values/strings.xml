@@ -2,4 +2,8 @@
     <string name="app_name">tooktook</string>
     <string name="mode_label">Mode</string>
     <string name="language_label">Language</string>
+    <string-array name="rangeSlider">
+        <item>20</item>
+        <item>70</item>
+    </string-array>
 </resources>
